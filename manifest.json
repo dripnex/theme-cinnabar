@@ -1,0 +1,7 @@
+{
+  "id": "theme-cinnabar",
+  "name": "Cinnabar",
+  "version": "0.1.0",
+  "description": "Charcoal mineral. Cinnabar vermillion mark.",
+  "main": "dist/index.js"
+}
